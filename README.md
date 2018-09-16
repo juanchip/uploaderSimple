@@ -5,7 +5,7 @@
 ### Uploader en PHP ###
 Instalar LAMP para que funcione
 - Usando PHP, podes usar este archivo para subir cualquier tipo de archivo a tu sitio
-- Tenes que crear un directorio para almacenar todo lo que hagas archivos/
+- Tenes que crear un directorio para almacenar todo lo que hagas llamado "archivos"
 ```
 sudo apt install apache2 php-xmlrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
 ```
