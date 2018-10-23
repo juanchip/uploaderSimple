@@ -18,4 +18,4 @@ sudo apt install mysql-server php-pear php-fpm php-dev php-zip php-curl
 sudo chmod -R 777 /al/directorio/donde/esta/el/index.html
 ```
 
-By [Juanstdio](https://github.com/juanchip)
+By [Juanstdio](https://github.com/juanstdio)
